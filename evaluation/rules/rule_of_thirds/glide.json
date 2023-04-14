@@ -1,0 +1,110 @@
+[
+    {
+        "image": "../stimuli/glide/p02.png",
+        "prediction": 2.7550502636586316e-05
+    },
+    {
+        "image": "../stimuli/glide/p21.png",
+        "prediction": 0.9999996423721313
+    },
+    {
+        "image": "../stimuli/glide/p11.png",
+        "prediction": 0.0005492568016052246
+    },
+    {
+        "image": "../stimuli/glide/p23.png",
+        "prediction": 9.384187220698448e-13
+    },
+    {
+        "image": "../stimuli/glide/p25.png",
+        "prediction": 0.002548009157180786
+    },
+    {
+        "image": "../stimuli/glide/p01.png",
+        "prediction": 1.0
+    },
+    {
+        "image": "../stimuli/glide/p08.png",
+        "prediction": 0.999867856502533
+    },
+    {
+        "image": "../stimuli/glide/p05.png",
+        "prediction": 3.029830077139195e-05
+    },
+    {
+        "image": "../stimuli/glide/p06.png",
+        "prediction": 2.6739095312922068e-11
+    },
+    {
+        "image": "../stimuli/glide/p12.png",
+        "prediction": 5.194976324673917e-07
+    },
+    {
+        "image": "../stimuli/glide/p03.png",
+        "prediction": 3.846278957553295e-07
+    },
+    {
+        "image": "../stimuli/glide/p24.png",
+        "prediction": 1.0
+    },
+    {
+        "image": "../stimuli/glide/p16.png",
+        "prediction": 0.0006180107593536377
+    },
+    {
+        "image": "../stimuli/glide/p20.png",
+        "prediction": 2.1894910884334706e-10
+    },
+    {
+        "image": "../stimuli/glide/p14.png",
+        "prediction": 3.1702917624443216e-08
+    },
+    {
+        "image": "../stimuli/glide/p15.png",
+        "prediction": 0.11622214317321777
+    },
+    {
+        "image": "../stimuli/glide/p27.png",
+        "prediction": 2.6592507355205613e-19
+    },
+    {
+        "image": "../stimuli/glide/p13.png",
+        "prediction": 1.5455239310568913e-09
+    },
+    {
+        "image": "../stimuli/glide/p22.png",
+        "prediction": 4.302111618337268e-12
+    },
+    {
+        "image": "../stimuli/glide/p18.png",
+        "prediction": 8.384531811249721e-15
+    },
+    {
+        "image": "../stimuli/glide/p19.png",
+        "prediction": 4.7339376862964855e-09
+    },
+    {
+        "image": "../stimuli/glide/p07.png",
+        "prediction": 3.4436858920017244e-10
+    },
+    {
+        "image": "../stimuli/glide/p10.png",
+        "prediction": 1.0
+    },
+    {
+        "image": "../stimuli/glide/p17.png",
+        "prediction": 0.06282085180282593
+    },
+    {
+        "image": "../stimuli/glide/p09.png",
+        "prediction": 9.362483661609633e-13
+    },
+    {
+        "image": "../stimuli/glide/p26.png",
+        "prediction": 5.328466140541721e-11
+    },
+    {
+        "image": "../stimuli/glide/p04.png",
+        "prediction": 1.918289171953802e-06
+    }
+]

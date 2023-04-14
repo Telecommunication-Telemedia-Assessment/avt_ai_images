@@ -1,0 +1,110 @@
+[
+    {
+        "image": "../stimuli/stable_diffusion/p02.png",
+        "prediction": 0.8033220767974854
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p21.png",
+        "prediction": 1.0
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p11.png",
+        "prediction": 0.9729411602020264
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p23.png",
+        "prediction": 0.005863547325134277
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p25.png",
+        "prediction": 5.829781796196087e-11
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p01.png",
+        "prediction": 0.002066582441329956
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p08.png",
+        "prediction": 0.9920098781585693
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p05.png",
+        "prediction": 0.00845712423324585
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p06.png",
+        "prediction": 0.38260170817375183
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p12.png",
+        "prediction": 0.2962222695350647
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p03.png",
+        "prediction": 0.9978991746902466
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p24.png",
+        "prediction": 2.406986095593311e-05
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p16.png",
+        "prediction": 2.2664174981201768e-09
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p20.png",
+        "prediction": 0.9985975027084351
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p14.png",
+        "prediction": 0.9655715227127075
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p15.png",
+        "prediction": 0.060853153467178345
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p27.png",
+        "prediction": 0.9981350898742676
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p13.png",
+        "prediction": 1.0
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p22.png",
+        "prediction": 3.607539724725939e-07
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p18.png",
+        "prediction": 3.585379104720232e-09
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p19.png",
+        "prediction": 0.6663601994514465
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p07.png",
+        "prediction": 0.9999994039535522
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p10.png",
+        "prediction": 1.5073576165036684e-08
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p17.png",
+        "prediction": 0.00011389380961190909
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p09.png",
+        "prediction": 0.011582374572753906
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p26.png",
+        "prediction": 0.0005729198455810547
+    },
+    {
+        "image": "../stimuli/stable_diffusion/p04.png",
+        "prediction": 0.0007070004940032959
+    }
+]

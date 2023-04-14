@@ -1,0 +1,110 @@
+[
+    {
+        "image": "../stimuli/dall-e/p02.png",
+        "prediction": 6.449767170124687e-06
+    },
+    {
+        "image": "../stimuli/dall-e/p21.png",
+        "prediction": 0.5865336656570435
+    },
+    {
+        "image": "../stimuli/dall-e/p11.png",
+        "prediction": 3.6560801586725533e-13
+    },
+    {
+        "image": "../stimuli/dall-e/p23.png",
+        "prediction": 0.0003425478935241699
+    },
+    {
+        "image": "../stimuli/dall-e/p25.png",
+        "prediction": 2.9969528441142756e-06
+    },
+    {
+        "image": "../stimuli/dall-e/p01.png",
+        "prediction": 1.3557811939790554e-07
+    },
+    {
+        "image": "../stimuli/dall-e/p08.png",
+        "prediction": 7.218664904939942e-06
+    },
+    {
+        "image": "../stimuli/dall-e/p05.png",
+        "prediction": 2.2057674868847243e-06
+    },
+    {
+        "image": "../stimuli/dall-e/p06.png",
+        "prediction": 2.1883406545186723e-12
+    },
+    {
+        "image": "../stimuli/dall-e/p12.png",
+        "prediction": 0.029734790325164795
+    },
+    {
+        "image": "../stimuli/dall-e/p03.png",
+        "prediction": 0.026832282543182373
+    },
+    {
+        "image": "../stimuli/dall-e/p24.png",
+        "prediction": 0.999826192855835
+    },
+    {
+        "image": "../stimuli/dall-e/p16.png",
+        "prediction": 8.190248081518803e-06
+    },
+    {
+        "image": "../stimuli/dall-e/p20.png",
+        "prediction": 0.9981544017791748
+    },
+    {
+        "image": "../stimuli/dall-e/p14.png",
+        "prediction": 8.886895130899575e-08
+    },
+    {
+        "image": "../stimuli/dall-e/p15.png",
+        "prediction": 4.8165937016619864e-08
+    },
+    {
+        "image": "../stimuli/dall-e/p27.png",
+        "prediction": 2.720002608563865e-12
+    },
+    {
+        "image": "../stimuli/dall-e/p13.png",
+        "prediction": 5.484143616118174e-14
+    },
+    {
+        "image": "../stimuli/dall-e/p22.png",
+        "prediction": 3.161618744584871e-09
+    },
+    {
+        "image": "../stimuli/dall-e/p18.png",
+        "prediction": 1.654567131481599e-05
+    },
+    {
+        "image": "../stimuli/dall-e/p19.png",
+        "prediction": 1.0527684279892924e-09
+    },
+    {
+        "image": "../stimuli/dall-e/p07.png",
+        "prediction": 1.5096960348515154e-09
+    },
+    {
+        "image": "../stimuli/dall-e/p10.png",
+        "prediction": 1.525447045698687e-14
+    },
+    {
+        "image": "../stimuli/dall-e/p17.png",
+        "prediction": 2.0655206738788914e-14
+    },
+    {
+        "image": "../stimuli/dall-e/p09.png",
+        "prediction": 3.1675547601528464e-11
+    },
+    {
+        "image": "../stimuli/dall-e/p26.png",
+        "prediction": 4.300620970454361e-11
+    },
+    {
+        "image": "../stimuli/dall-e/p04.png",
+        "prediction": 0.05770191550254822
+    }
+]

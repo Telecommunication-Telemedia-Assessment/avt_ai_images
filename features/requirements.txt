@@ -1,0 +1,7 @@
+cpbd
+numpy
+scikit-build
+opencv-python
+scikit-image
+scikit-video
+scikit-learn

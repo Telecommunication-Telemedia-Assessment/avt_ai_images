@@ -1,0 +1,28 @@
+ID,prompts,category
+p01,A red colored car,Drawbench
+p02,A black colored dog,Drawbench
+p03,A blue bird and a brown bear,Drawbench
+p04,A pizza cooking an oven,Drawbench
+p05,Two cars on the street,Drawbench
+p06,Two cats and one dog sitting on the grass,Drawbench
+p07,A triangular purple flower pot. A purple flower pot in the shape of a triangle,Drawbench
+p08,A couple of glasses are sitting on a table,Drawbench
+p09,A fisheye lens view of a turtle sitting in a forest,Drawbench
+p10,A connection point by which firefighters can tap into a water supply,Drawbench
+p11,A mechanical or electrical device for measuring time,Drawbench
+p12,"In late afternoon in January in New England, a man stands in the shadow of a maple tree",Drawbench
+p13,A pear cut into seven pieces arranged in a ring,Drawbench
+p14,A zebra to the right of a fire hydrant,Drawbench
+p15,A photo of a confused grizzly bear in calculus class,Drawbench
+p16,Hyper-realistic photo of an abandoned industrial site during a storm,Drawbench
+p17,Pixel-art on windows,own
+p18,Electronic Christmas trees,own
+p19,Apollo 9 command module in San Diego ,own
+p20,Purple flowers with yellow and a small bug,own
+p21,A seagull in the blue sky,own
+p22,A train in the London subway,own
+p23,A portrait of a mule,own
+p24,A lonely bench in Iceland,own
+p25,Group of people in front of a fountain illuminated from behind,own
+p26,Black cows lying on the grass,own
+p27,A box with tools for home office,own

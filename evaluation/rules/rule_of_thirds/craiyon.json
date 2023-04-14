@@ -1,0 +1,110 @@
+[
+    {
+        "image": "../stimuli/craiyon/p02.png",
+        "prediction": 0.023395419120788574
+    },
+    {
+        "image": "../stimuli/craiyon/p21.png",
+        "prediction": 0.0005151033401489258
+    },
+    {
+        "image": "../stimuli/craiyon/p11.png",
+        "prediction": 6.115207895618369e-09
+    },
+    {
+        "image": "../stimuli/craiyon/p23.png",
+        "prediction": 0.26200899481773376
+    },
+    {
+        "image": "../stimuli/craiyon/p25.png",
+        "prediction": 1.24252981237305e-08
+    },
+    {
+        "image": "../stimuli/craiyon/p01.png",
+        "prediction": 6.513804595976145e-16
+    },
+    {
+        "image": "../stimuli/craiyon/p08.png",
+        "prediction": 3.095616557402536e-05
+    },
+    {
+        "image": "../stimuli/craiyon/p05.png",
+        "prediction": 0.001314610242843628
+    },
+    {
+        "image": "../stimuli/craiyon/p06.png",
+        "prediction": 0.34549224376678467
+    },
+    {
+        "image": "../stimuli/craiyon/p12.png",
+        "prediction": 2.6990471724275267e-06
+    },
+    {
+        "image": "../stimuli/craiyon/p03.png",
+        "prediction": 0.00022214651107788086
+    },
+    {
+        "image": "../stimuli/craiyon/p24.png",
+        "prediction": 0.9998846054077148
+    },
+    {
+        "image": "../stimuli/craiyon/p16.png",
+        "prediction": 0.928013026714325
+    },
+    {
+        "image": "../stimuli/craiyon/p20.png",
+        "prediction": 0.0016165673732757568
+    },
+    {
+        "image": "../stimuli/craiyon/p14.png",
+        "prediction": 0.9999985694885254
+    },
+    {
+        "image": "../stimuli/craiyon/p15.png",
+        "prediction": 5.36019399532961e-07
+    },
+    {
+        "image": "../stimuli/craiyon/p27.png",
+        "prediction": 3.3784607056386307e-12
+    },
+    {
+        "image": "../stimuli/craiyon/p13.png",
+        "prediction": 5.516438977792859e-05
+    },
+    {
+        "image": "../stimuli/craiyon/p22.png",
+        "prediction": 0.11414775252342224
+    },
+    {
+        "image": "../stimuli/craiyon/p18.png",
+        "prediction": 1.3974949979456142e-06
+    },
+    {
+        "image": "../stimuli/craiyon/p19.png",
+        "prediction": 0.9990701675415039
+    },
+    {
+        "image": "../stimuli/craiyon/p07.png",
+        "prediction": 0.03834608197212219
+    },
+    {
+        "image": "../stimuli/craiyon/p10.png",
+        "prediction": 3.5510580346453935e-05
+    },
+    {
+        "image": "../stimuli/craiyon/p17.png",
+        "prediction": 1.0325716175429989e-05
+    },
+    {
+        "image": "../stimuli/craiyon/p09.png",
+        "prediction": 0.9966522455215454
+    },
+    {
+        "image": "../stimuli/craiyon/p26.png",
+        "prediction": 4.340287240722773e-09
+    },
+    {
+        "image": "../stimuli/craiyon/p04.png",
+        "prediction": 9.39638145069921e-10
+    }
+]

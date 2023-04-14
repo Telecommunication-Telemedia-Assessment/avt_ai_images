@@ -1,0 +1,46 @@
+[
+    {
+        "image": "../stimuli/own/p21.png",
+        "prediction": 0.999998152256012
+    },
+    {
+        "image": "../stimuli/own/p23.png",
+        "prediction": 5.212636962695361e-13
+    },
+    {
+        "image": "../stimuli/own/p25.png",
+        "prediction": 4.693144862940061e-18
+    },
+    {
+        "image": "../stimuli/own/p24.png",
+        "prediction": 1.0
+    },
+    {
+        "image": "../stimuli/own/p20.png",
+        "prediction": 0.0004786550998687744
+    },
+    {
+        "image": "../stimuli/own/p27.png",
+        "prediction": 0.0032352209091186523
+    },
+    {
+        "image": "../stimuli/own/p22.png",
+        "prediction": 1.0
+    },
+    {
+        "image": "../stimuli/own/p18.png",
+        "prediction": 1.696403523965273e-05
+    },
+    {
+        "image": "../stimuli/own/p19.png",
+        "prediction": 4.43960779250574e-08
+    },
+    {
+        "image": "../stimuli/own/p17.png",
+        "prediction": 1.872710527095478e-06
+    },
+    {
+        "image": "../stimuli/own/p26.png",
+        "prediction": 1.0162187064066686e-11
+    }
+]

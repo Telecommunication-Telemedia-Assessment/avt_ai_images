@@ -1,0 +1,110 @@
+[
+  {
+    "image_id": "p02",
+    "mean_score_prediction": 5.481872546646628
+  },
+  {
+    "image_id": "p21",
+    "mean_score_prediction": 5.84011654847871
+  },
+  {
+    "image_id": "p11",
+    "mean_score_prediction": 4.827274226321606
+  },
+  {
+    "image_id": "p23",
+    "mean_score_prediction": 6.390483689226862
+  },
+  {
+    "image_id": "p25",
+    "mean_score_prediction": 6.27219865585937
+  },
+  {
+    "image_id": "p01",
+    "mean_score_prediction": 5.598750625305229
+  },
+  {
+    "image_id": "p08",
+    "mean_score_prediction": 5.679499407716321
+  },
+  {
+    "image_id": "p05",
+    "mean_score_prediction": 5.842694057150652
+  },
+  {
+    "image_id": "p06",
+    "mean_score_prediction": 5.840738739802248
+  },
+  {
+    "image_id": "p12",
+    "mean_score_prediction": 5.633928102891204
+  },
+  {
+    "image_id": "p03",
+    "mean_score_prediction": 6.258614106677417
+  },
+  {
+    "image_id": "p24",
+    "mean_score_prediction": 6.34937964885142
+  },
+  {
+    "image_id": "p16",
+    "mean_score_prediction": 6.066342489722409
+  },
+  {
+    "image_id": "p20",
+    "mean_score_prediction": 6.234222572835954
+  },
+  {
+    "image_id": "p14",
+    "mean_score_prediction": 6.005316199766696
+  },
+  {
+    "image_id": "p15",
+    "mean_score_prediction": 5.129475406071833
+  },
+  {
+    "image_id": "p27",
+    "mean_score_prediction": 5.26927487719513
+  },
+  {
+    "image_id": "p13",
+    "mean_score_prediction": 5.334471532037696
+  },
+  {
+    "image_id": "p22",
+    "mean_score_prediction": 6.028120249745598
+  },
+  {
+    "image_id": "p18",
+    "mean_score_prediction": 6.210383734361841
+  },
+  {
+    "image_id": "p19",
+    "mean_score_prediction": 4.28480477341509
+  },
+  {
+    "image_id": "p07",
+    "mean_score_prediction": 5.8371001952314145
+  },
+  {
+    "image_id": "p10",
+    "mean_score_prediction": 6.199484562945457
+  },
+  {
+    "image_id": "p17",
+    "mean_score_prediction": 5.546560746603063
+  },
+  {
+    "image_id": "p09",
+    "mean_score_prediction": 5.528173128700473
+  },
+  {
+    "image_id": "p26",
+    "mean_score_prediction": 5.617580292292587
+  },
+  {
+    "image_id": "p04",
+    "mean_score_prediction": 5.375310008897941
+  }
+]

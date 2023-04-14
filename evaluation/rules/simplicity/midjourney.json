@@ -1,0 +1,110 @@
+[
+    {
+        "image": "../stimuli/midjourney/p02.png",
+        "prediction": 0.9323828816413879
+    },
+    {
+        "image": "../stimuli/midjourney/p21.png",
+        "prediction": 0.9894834160804749
+    },
+    {
+        "image": "../stimuli/midjourney/p11.png",
+        "prediction": 0.999191164970398
+    },
+    {
+        "image": "../stimuli/midjourney/p23.png",
+        "prediction": 0.005151033401489258
+    },
+    {
+        "image": "../stimuli/midjourney/p25.png",
+        "prediction": 0.00010824937635334209
+    },
+    {
+        "image": "../stimuli/midjourney/p01.png",
+        "prediction": 0.9968765377998352
+    },
+    {
+        "image": "../stimuli/midjourney/p08.png",
+        "prediction": 0.9888628125190735
+    },
+    {
+        "image": "../stimuli/midjourney/p05.png",
+        "prediction": 3.328940874780528e-05
+    },
+    {
+        "image": "../stimuli/midjourney/p06.png",
+        "prediction": 0.2829514145851135
+    },
+    {
+        "image": "../stimuli/midjourney/p12.png",
+        "prediction": 8.29117198009044e-06
+    },
+    {
+        "image": "../stimuli/midjourney/p03.png",
+        "prediction": 0.9873573780059814
+    },
+    {
+        "image": "../stimuli/midjourney/p24.png",
+        "prediction": 7.13796097784325e-08
+    },
+    {
+        "image": "../stimuli/midjourney/p16.png",
+        "prediction": 1.4494650812935106e-08
+    },
+    {
+        "image": "../stimuli/midjourney/p20.png",
+        "prediction": 0.9474305510520935
+    },
+    {
+        "image": "../stimuli/midjourney/p14.png",
+        "prediction": 7.847696542739868e-05
+    },
+    {
+        "image": "../stimuli/midjourney/p15.png",
+        "prediction": 0.9583243131637573
+    },
+    {
+        "image": "../stimuli/midjourney/p27.png",
+        "prediction": 0.9965537786483765
+    },
+    {
+        "image": "../stimuli/midjourney/p13.png",
+        "prediction": 0.9901750683784485
+    },
+    {
+        "image": "../stimuli/midjourney/p22.png",
+        "prediction": 8.148546420949643e-11
+    },
+    {
+        "image": "../stimuli/midjourney/p18.png",
+        "prediction": 0.9996360540390015
+    },
+    {
+        "image": "../stimuli/midjourney/p19.png",
+        "prediction": 0.03068399429321289
+    },
+    {
+        "image": "../stimuli/midjourney/p07.png",
+        "prediction": 0.843369722366333
+    },
+    {
+        "image": "../stimuli/midjourney/p10.png",
+        "prediction": 0.0007527768611907959
+    },
+    {
+        "image": "../stimuli/midjourney/p17.png",
+        "prediction": 4.165455980142951e-09
+    },
+    {
+        "image": "../stimuli/midjourney/p09.png",
+        "prediction": 0.1615828573703766
+    },
+    {
+        "image": "../stimuli/midjourney/p26.png",
+        "prediction": 1.3904146953791496e-06
+    },
+    {
+        "image": "../stimuli/midjourney/p04.png",
+        "prediction": 0.5752726793289185
+    }
+]
