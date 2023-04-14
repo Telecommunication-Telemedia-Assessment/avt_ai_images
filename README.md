@@ -44,8 +44,7 @@ If you use this software or data in your research, please include a link to the 
   title={Analysis of Appeal for realistic AI-generated Photos},
   author={Steve G\"oring and Rakesh {Rao Ramachandra Rao} and Rasmus Merten and Alexander Raake},
   journal={IEEE Access},
-  year={2023},
-  note={to appear}
+  year={2023}
 }
 ```
 
