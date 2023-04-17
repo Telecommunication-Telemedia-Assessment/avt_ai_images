@@ -18,6 +18,7 @@ scipy.ndimage.imread = imageio.imread
 import cpbd
 # fix for old skvideo version
 import numpy as np
+np.int = int  # for newer np versions
 import PIL
 from PIL import Image
 
