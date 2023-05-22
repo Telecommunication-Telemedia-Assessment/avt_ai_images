@@ -46,6 +46,13 @@ If you use this software or data in your research, please include a link to the 
   journal={IEEE Access},
   year={2023}
 }
+
+@inproceedings{goering2023aiquality,
+  author={Steve {G{\"o}ring} and Rakesh {Rao Ramachandra Rao} and Alexander Raake},
+  title="Appeal and quality assessment for AI-generated images",
+  booktitle="15th Int. Conference on Quality of Multimedia Experience (QoMEX)",
+  year={2023},
+}
 ```
 
 ## License
