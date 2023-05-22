@@ -1,6 +1,6 @@
 # AVT-AI-Image-Dataset and Evaluation
 
-In this repository the data and evaluation scripts are collected to reproduce the results of the paper `goering2023ai` (see Acknowledgments).
+In this repository the data and evaluation scripts are collected to reproduce the results of the paper `goering2023ai` and `goering2023aiquality` (see Acknowledgments).
 The dataset can be also used for additional evaluation, the subjective scores for appeal, realism, and text prompt matching are included.
 
 
