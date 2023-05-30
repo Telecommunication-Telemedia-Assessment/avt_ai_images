@@ -15,7 +15,7 @@ The dataset can be also used for additional evaluation, the subjective scores fo
 * `evaluation`: scripts for the evaluation, including also calculated metrics and features
     * `evaluation/all_ratings.csv`: has all mean values calculated for the subjective annotations
     * `evaluation/subjective/*`: has the raw data of all ratings
-* `quality_evaluation`: evaluation of image quality and appeal, see `goering2023aiquality`, similar structure as `evaluation`
+* `evaluation_quality_appeal`: evaluation of image quality and appeal, see `goering2023aiquality`, similar structure as `evaluation`
 
 ## Requirements
 The evaluation scripts are only tested on linux systems (e.g. Ubuntu 20.04, 22.04).
